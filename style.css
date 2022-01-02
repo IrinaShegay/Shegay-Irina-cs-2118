@@ -1,0 +1,81 @@
+
+  
+  .body{
+    background-size: 100%;
+    background-color: rgba(33, 80, 64, 0.096);
+    border-style: inset;
+    border-color: beige;
+    height: auto;
+    width:100%;
+    display: block;
+    position: -webkit-sticky;
+    box-sizing: auto;
+    -moz-box-sizing: auto;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 300;
+    
+  
+  }
+  .table{
+   border-style: dotted;
+   border-color: rgba(40, 77, 64, 0.384);
+   border-radius: 5px;
+   text-align: center;
+   display: table-cell; 
+   vertical-align: middle;
+   padding-top: 2px;
+   padding-right:10px;
+   padding-bottom:10px;
+   padding-left:10px;
+   max-height: fit-content;
+   width: max-content;
+   font-size: medium;
+  
+  
+  }
+  .pic {
+   margin-left: 10px;
+   margin-top: 10px;
+   margin-block-end: auto;
+   display: inline-block;
+   list-style: none;
+   border: 3px solid beige;
+   border-style: inset;
+   position: static;
+
+  }
+
+  .words {
+    margin-left: 10px;
+    position: relative;
+    font-optical-sizing:auto;
+    
+  
+  }
+
+  .link {
+    margin-left: 10px;
+    line-height: normal;
+
+    
+  }
+
+  .hobby{
+    display: block; 
+    position: sticky;
+    left: 10px;
+  
+
+  }
+
+  .pic2{
+    display:block;
+    position: relative;
+
+  }
+
+  .name {
+    display: none;
+    font-size: medium;
+  }
+
